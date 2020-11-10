@@ -1,0 +1,62 @@
+C:\Users\emilg\Documents\Skola\Högskolan Väst - Systemutveckling\2019 - ETB310 - Etjänster & XML\Lab2\InventoryHost\bin\InventoryHost.dll.config
+C:\Users\emilg\Documents\Skola\Högskolan Väst - Systemutveckling\2019 - ETB310 - Etjänster & XML\Lab2\InventoryHost\bin\InventoryHost.dll
+C:\Users\emilg\Documents\Skola\Högskolan Väst - Systemutveckling\2019 - ETB310 - Etjänster & XML\Lab2\InventoryHost\bin\InventoryHost.pdb
+C:\Users\emilg\Documents\Skola\Högskolan Väst - Systemutveckling\2019 - ETB310 - Etjänster & XML\Lab2\InventoryHost\bin\InventoryService.dll
+C:\Users\emilg\Documents\Skola\Högskolan Väst - Systemutveckling\2019 - ETB310 - Etjänster & XML\Lab2\InventoryHost\bin\InventoryService.pdb
+C:\Users\emilg\Documents\Skola\Högskolan Väst - Systemutveckling\2019 - ETB310 - Etjänster & XML\Lab2\InventoryHost\bin\InventoryService.dll.config
+C:\Users\emilg\Documents\Skola\Högskolan Väst - Systemutveckling\2019 - ETB310 - Etjänster & XML\Lab2\InventoryHost\obj\Debug\InventoryHost.csprojAssemblyReference.cache
+C:\Users\emilg\Documents\Skola\Högskolan Väst - Systemutveckling\2019 - ETB310 - Etjänster & XML\Lab2\InventoryHost\obj\Debug\InventoryHost.csproj.CoreCompileInputs.cache
+C:\Users\emilg\Documents\Skola\Högskolan Väst - Systemutveckling\2019 - ETB310 - Etjänster & XML\Lab2\InventoryHost\obj\Debug\InventoryHost.csproj.CopyComplete
+C:\Users\emilg\Documents\Skola\Högskolan Väst - Systemutveckling\2019 - ETB310 - Etjänster & XML\Lab2\InventoryHost\obj\Debug\InventoryHost.dll
+C:\Users\emilg\Documents\Skola\Högskolan Väst - Systemutveckling\2019 - ETB310 - Etjänster & XML\Lab2\InventoryHost\obj\Debug\InventoryHost.pdb
+C:\Users\emilg\Documents\Skola\Högskolan Väst - Systemutveckling\2019 - ETB310 - Etjänster & XML\Lab2\InventoryHost\bin\InventoryHost.dll.CodeAnalysisLog.xml
+C:\Users\emilg\Documents\Skola\Högskolan Väst - Systemutveckling\2019 - ETB310 - Etjänster & XML\Lab2\InventoryHost\bin\InventoryHost.dll.lastcodeanalysissucceeded
+C:\Users\emilg\Downloads\190211 - Lab2\Lab2 (1)\Lab2\InventoryHost\bin\InventoryHost.dll.config
+C:\Users\emilg\Downloads\190211 - Lab2\Lab2 (1)\Lab2\InventoryHost\bin\InventoryHost.dll
+C:\Users\emilg\Downloads\190211 - Lab2\Lab2 (1)\Lab2\InventoryHost\bin\InventoryHost.pdb
+C:\Users\emilg\Downloads\190211 - Lab2\Lab2 (1)\Lab2\InventoryHost\bin\InventoryService.dll
+C:\Users\emilg\Downloads\190211 - Lab2\Lab2 (1)\Lab2\InventoryHost\bin\InventoryService.pdb
+C:\Users\emilg\Downloads\190211 - Lab2\Lab2 (1)\Lab2\InventoryHost\bin\InventoryService.dll.config
+C:\Users\emilg\Downloads\190211 - Lab2\Lab2 (1)\Lab2\InventoryHost\obj\Debug\InventoryHost.csprojAssemblyReference.cache
+C:\Users\emilg\Downloads\190211 - Lab2\Lab2 (1)\Lab2\InventoryHost\obj\Debug\InventoryHost.csproj.CoreCompileInputs.cache
+C:\Users\emilg\Downloads\190211 - Lab2\Lab2 (1)\Lab2\InventoryHost\obj\Debug\InventoryHost.csproj.CopyComplete
+C:\Users\emilg\Downloads\190211 - Lab2\Lab2 (1)\Lab2\InventoryHost\obj\Debug\InventoryHost.dll
+C:\Users\emilg\Downloads\190211 - Lab2\Lab2 (1)\Lab2\InventoryHost\obj\Debug\InventoryHost.pdb
+C:\Users\emgu0012\Downloads\190214 - Lab2\190214 - Lab2\InventoryHost\bin\InventoryHost.dll.config
+C:\Users\emgu0012\Downloads\190214 - Lab2\190214 - Lab2\InventoryHost\bin\InventoryHost.dll
+C:\Users\emgu0012\Downloads\190214 - Lab2\190214 - Lab2\InventoryHost\bin\InventoryHost.pdb
+C:\Users\emgu0012\Downloads\190214 - Lab2\190214 - Lab2\InventoryHost\bin\InventoryService.dll
+C:\Users\emgu0012\Downloads\190214 - Lab2\190214 - Lab2\InventoryHost\bin\InventoryService.pdb
+C:\Users\emgu0012\Downloads\190214 - Lab2\190214 - Lab2\InventoryHost\bin\InventoryService.dll.config
+C:\Users\emgu0012\Downloads\190214 - Lab2\190214 - Lab2\InventoryHost\obj\Debug\InventoryHost.csprojResolveAssemblyReference.cache
+C:\Users\emgu0012\Downloads\190214 - Lab2\190214 - Lab2\InventoryHost\obj\Debug\InventoryHost.dll
+C:\Users\emgu0012\Downloads\190214 - Lab2\190214 - Lab2\InventoryHost\obj\Debug\InventoryHost.pdb
+C:\Users\maje0019\Desktop\190214b - Lab2\InventoryHost\bin\InventoryHost.dll.config
+C:\Users\maje0019\Desktop\190214b - Lab2\InventoryHost\bin\InventoryHost.dll
+C:\Users\maje0019\Desktop\190214b - Lab2\InventoryHost\bin\InventoryHost.pdb
+C:\Users\maje0019\Desktop\190214b - Lab2\InventoryHost\bin\InventoryService.dll
+C:\Users\maje0019\Desktop\190214b - Lab2\InventoryHost\bin\InventoryService.pdb
+C:\Users\maje0019\Desktop\190214b - Lab2\InventoryHost\bin\InventoryService.dll.config
+C:\Users\maje0019\Desktop\190214b - Lab2\InventoryHost\obj\Debug\InventoryHost.csprojResolveAssemblyReference.cache
+C:\Users\maje0019\Desktop\190214b - Lab2\InventoryHost\obj\Debug\InventoryHost.dll
+C:\Users\maje0019\Desktop\190214b - Lab2\InventoryHost\obj\Debug\InventoryHost.pdb
+C:\Users\emgu0012\Downloads\190220 - Lab2 - Lager implementerat\190220 - Lab2 - Lager implementerat\InventoryHost\bin\InventoryHost.dll.config
+C:\Users\emgu0012\Downloads\190220 - Lab2 - Lager implementerat\190220 - Lab2 - Lager implementerat\InventoryHost\bin\InventoryHost.dll
+C:\Users\emgu0012\Downloads\190220 - Lab2 - Lager implementerat\190220 - Lab2 - Lager implementerat\InventoryHost\bin\InventoryHost.pdb
+C:\Users\emgu0012\Downloads\190220 - Lab2 - Lager implementerat\190220 - Lab2 - Lager implementerat\InventoryHost\bin\InventoryService.dll
+C:\Users\emgu0012\Downloads\190220 - Lab2 - Lager implementerat\190220 - Lab2 - Lager implementerat\InventoryHost\bin\InventoryService.pdb
+C:\Users\emgu0012\Downloads\190220 - Lab2 - Lager implementerat\190220 - Lab2 - Lager implementerat\InventoryHost\bin\InventoryService.dll.config
+C:\Users\emgu0012\Downloads\190220 - Lab2 - Lager implementerat\190220 - Lab2 - Lager implementerat\InventoryHost\obj\Debug\InventoryHost.csprojResolveAssemblyReference.cache
+C:\Users\emgu0012\Downloads\190220 - Lab2 - Lager implementerat\190220 - Lab2 - Lager implementerat\InventoryHost\obj\Debug\InventoryHost.dll
+C:\Users\emgu0012\Downloads\190220 - Lab2 - Lager implementerat\190220 - Lab2 - Lager implementerat\InventoryHost\obj\Debug\InventoryHost.pdb
+C:\Users\emilg\Downloads\190220 - Lab2 - WHIZTL Grossist\190220 - Lab2 - WHIZTL Grossist\InventoryHost\bin\InventoryHost.dll.config
+C:\Users\emilg\Downloads\190220 - Lab2 - WHIZTL Grossist\190220 - Lab2 - WHIZTL Grossist\InventoryHost\bin\InventoryHost.dll
+C:\Users\emilg\Downloads\190220 - Lab2 - WHIZTL Grossist\190220 - Lab2 - WHIZTL Grossist\InventoryHost\bin\InventoryHost.pdb
+C:\Users\emilg\Downloads\190220 - Lab2 - WHIZTL Grossist\190220 - Lab2 - WHIZTL Grossist\InventoryHost\bin\InventoryService.dll
+C:\Users\emilg\Downloads\190220 - Lab2 - WHIZTL Grossist\190220 - Lab2 - WHIZTL Grossist\InventoryHost\bin\InventoryService.pdb
+C:\Users\emilg\Downloads\190220 - Lab2 - WHIZTL Grossist\190220 - Lab2 - WHIZTL Grossist\InventoryHost\bin\InventoryService.dll.config
+C:\Users\emilg\Downloads\190220 - Lab2 - WHIZTL Grossist\190220 - Lab2 - WHIZTL Grossist\InventoryHost\obj\Debug\InventoryHost.csprojAssemblyReference.cache
+C:\Users\emilg\Downloads\190220 - Lab2 - WHIZTL Grossist\190220 - Lab2 - WHIZTL Grossist\InventoryHost\obj\Debug\InventoryHost.csproj.CoreCompileInputs.cache
+C:\Users\emilg\Downloads\190220 - Lab2 - WHIZTL Grossist\190220 - Lab2 - WHIZTL Grossist\InventoryHost\obj\Debug\InventoryHost.csproj.CopyComplete
+C:\Users\emilg\Downloads\190220 - Lab2 - WHIZTL Grossist\190220 - Lab2 - WHIZTL Grossist\InventoryHost\obj\Debug\InventoryHost.dll
+C:\Users\emilg\Downloads\190220 - Lab2 - WHIZTL Grossist\190220 - Lab2 - WHIZTL Grossist\InventoryHost\obj\Debug\InventoryHost.pdb

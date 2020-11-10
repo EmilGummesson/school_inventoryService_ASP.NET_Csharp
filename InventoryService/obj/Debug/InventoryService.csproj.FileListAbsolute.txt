@@ -1,0 +1,58 @@
+C:\Users\emilg\Documents\Skola\Högskolan Väst - Systemutveckling\2019 - ETB310 - Etjänster & XML\Lab2\InventoryService\bin\Debug\InventoryService.dll.config
+C:\Users\emilg\Documents\Skola\Högskolan Väst - Systemutveckling\2019 - ETB310 - Etjänster & XML\Lab2\InventoryService\bin\Debug\InventoryService.dll
+C:\Users\emilg\Documents\Skola\Högskolan Väst - Systemutveckling\2019 - ETB310 - Etjänster & XML\Lab2\InventoryService\bin\Debug\InventoryService.pdb
+C:\Users\emilg\Documents\Skola\Högskolan Väst - Systemutveckling\2019 - ETB310 - Etjänster & XML\Lab2\InventoryService\obj\Debug\InventoryService.csproj.CoreCompileInputs.cache
+C:\Users\emilg\Documents\Skola\Högskolan Väst - Systemutveckling\2019 - ETB310 - Etjänster & XML\Lab2\InventoryService\obj\Debug\InventoryService.dll
+C:\Users\emilg\Documents\Skola\Högskolan Väst - Systemutveckling\2019 - ETB310 - Etjänster & XML\Lab2\InventoryService\obj\Debug\InventoryService.pdb
+C:\Users\emilg\Downloads\190211 - Lab2\Lab2 (1)\Lab2\InventoryService\bin\Debug\InventoryService.dll.config
+C:\Users\emilg\Downloads\190211 - Lab2\Lab2 (1)\Lab2\InventoryService\bin\Debug\InventoryService.dll
+C:\Users\emilg\Downloads\190211 - Lab2\Lab2 (1)\Lab2\InventoryService\bin\Debug\InventoryService.pdb
+C:\Users\emilg\Downloads\190211 - Lab2\Lab2 (1)\Lab2\InventoryService\obj\Debug\InventoryService.csproj.CoreCompileInputs.cache
+C:\Users\emilg\Downloads\190211 - Lab2\Lab2 (1)\Lab2\InventoryService\obj\Debug\InventoryService.dll
+C:\Users\emilg\Downloads\190211 - Lab2\Lab2 (1)\Lab2\InventoryService\obj\Debug\InventoryService.pdb
+C:\Users\emilg\Downloads\190211 - Lab2\Lab2 (1)\Lab2\InventoryService\obj\Debug\InventoryService.csprojAssemblyReference.cache
+C:\Users\emgu0012\Downloads\190214 - Lab2\190214 - Lab2\InventoryService\bin\Debug\InventoryService.dll.config
+C:\Users\emgu0012\Downloads\190214 - Lab2\190214 - Lab2\InventoryService\bin\Debug\InventoryService.dll
+C:\Users\emgu0012\Downloads\190214 - Lab2\190214 - Lab2\InventoryService\bin\Debug\InventoryService.pdb
+C:\Users\emgu0012\Downloads\190214 - Lab2\190214 - Lab2\InventoryService\obj\Debug\InventoryService.csprojResolveAssemblyReference.cache
+C:\Users\emgu0012\Downloads\190214 - Lab2\190214 - Lab2\InventoryService\obj\Debug\InventoryService.dll
+C:\Users\emgu0012\Downloads\190214 - Lab2\190214 - Lab2\InventoryService\obj\Debug\InventoryService.pdb
+C:\Users\maje0019\Desktop\190214b - Lab2\InventoryService\bin\Debug\InventoryService.dll.config
+C:\Users\maje0019\Desktop\190214b - Lab2\InventoryService\bin\Debug\InventoryService.dll
+C:\Users\maje0019\Desktop\190214b - Lab2\InventoryService\bin\Debug\InventoryService.pdb
+C:\Users\maje0019\Desktop\190214b - Lab2\InventoryService\obj\Debug\InventoryService.dll
+C:\Users\maje0019\Desktop\190214b - Lab2\InventoryService\obj\Debug\InventoryService.pdb
+C:\Users\emgu0012\Downloads\190220 - Lab2 - Lager implementerat\190220 - Lab2 - Lager implementerat\InventoryService\bin\Debug\InventoryService.dll.config
+C:\Users\emgu0012\Downloads\190220 - Lab2 - Lager implementerat\190220 - Lab2 - Lager implementerat\InventoryService\bin\Debug\InventoryService.dll
+C:\Users\emgu0012\Downloads\190220 - Lab2 - Lager implementerat\190220 - Lab2 - Lager implementerat\InventoryService\bin\Debug\InventoryService.pdb
+C:\Users\emgu0012\Downloads\190220 - Lab2 - Lager implementerat\190220 - Lab2 - Lager implementerat\InventoryService\obj\Debug\InventoryService.dll
+C:\Users\emgu0012\Downloads\190220 - Lab2 - Lager implementerat\190220 - Lab2 - Lager implementerat\InventoryService\obj\Debug\InventoryService.pdb
+C:\Users\emgu0012\Downloads\190220 - Lab2 - Lager implementerat\190220 - Lab2 - Lager implementerat\InventoryService\obj\Debug\XsdGeneratedCode\GeneratedXsdTypes.cs
+C:\Users\emgu0012\Downloads\190220 - Lab2 - Lager implementerat\190220 - Lab2 - Lager implementerat\InventoryService\obj\Debug\InventoryService.csprojResolveAssemblyReference.cache
+C:\Users\emgu0012\Downloads\190220 - Lab2 - Lager implementerat\190220 - Lab2 - Lager implementerat\InventoryService\bin\Debug\SupplierService.dll
+C:\Users\emgu0012\Downloads\190220 - Lab2 - Lager implementerat\190220 - Lab2 - Lager implementerat\InventoryService\bin\Debug\SupplierService.pdb
+C:\Users\emgu0012\Downloads\190220 - Lab2 - Lager implementerat\190220 - Lab2 - Lager implementerat\InventoryService\bin\Debug\SupplierService.dll.config
+C:\Users\emilg\Downloads\190220 - Lab2 - WHIZTL Grossist\190220 - Lab2 - WHIZTL Grossist\InventoryService\bin\Debug\InventoryService.dll.config
+C:\Users\emilg\Downloads\190220 - Lab2 - WHIZTL Grossist\190220 - Lab2 - WHIZTL Grossist\InventoryService\bin\Debug\InventoryService.dll
+C:\Users\emilg\Downloads\190220 - Lab2 - WHIZTL Grossist\190220 - Lab2 - WHIZTL Grossist\InventoryService\bin\Debug\InventoryService.pdb
+C:\Users\emilg\Downloads\190220 - Lab2 - WHIZTL Grossist\190220 - Lab2 - WHIZTL Grossist\InventoryService\bin\Debug\SupplierService.dll
+C:\Users\emilg\Downloads\190220 - Lab2 - WHIZTL Grossist\190220 - Lab2 - WHIZTL Grossist\InventoryService\bin\Debug\SupplierService.pdb
+C:\Users\emilg\Downloads\190220 - Lab2 - WHIZTL Grossist\190220 - Lab2 - WHIZTL Grossist\InventoryService\bin\Debug\SupplierService.dll.config
+C:\Users\emilg\Downloads\190220 - Lab2 - WHIZTL Grossist\190220 - Lab2 - WHIZTL Grossist\InventoryService\obj\Debug\InventoryService.csprojAssemblyReference.cache
+C:\Users\emilg\Downloads\190220 - Lab2 - WHIZTL Grossist\190220 - Lab2 - WHIZTL Grossist\InventoryService\obj\Debug\InventoryService.csproj.CoreCompileInputs.cache
+C:\Users\emilg\Downloads\190220 - Lab2 - WHIZTL Grossist\190220 - Lab2 - WHIZTL Grossist\InventoryService\obj\Debug\XsdGeneratedCode\GeneratedXsdTypes.cs
+C:\Users\emilg\Downloads\190220 - Lab2 - WHIZTL Grossist\190220 - Lab2 - WHIZTL Grossist\InventoryService\obj\Debug\InventoryService.csproj.CopyComplete
+C:\Users\emilg\Downloads\190220 - Lab2 - WHIZTL Grossist\190220 - Lab2 - WHIZTL Grossist\InventoryService\obj\Debug\InventoryService.dll
+C:\Users\emilg\Downloads\190220 - Lab2 - WHIZTL Grossist\190220 - Lab2 - WHIZTL Grossist\InventoryService\obj\Debug\InventoryService.pdb
+C:\Files\Skola\Högskolan Väst - Systemutveckling\2019 - ETB310 - Etjänster & XML\Lab2\Lab2 - Inlämning\Lab2\InventoryService\bin\Debug\InventoryService.dll.config
+C:\Files\Skola\Högskolan Väst - Systemutveckling\2019 - ETB310 - Etjänster & XML\Lab2\Lab2 - Inlämning\Lab2\InventoryService\bin\Debug\InventoryService.dll
+C:\Files\Skola\Högskolan Väst - Systemutveckling\2019 - ETB310 - Etjänster & XML\Lab2\Lab2 - Inlämning\Lab2\InventoryService\bin\Debug\InventoryService.pdb
+C:\Files\Skola\Högskolan Väst - Systemutveckling\2019 - ETB310 - Etjänster & XML\Lab2\Lab2 - Inlämning\Lab2\InventoryService\bin\Debug\SupplierService.dll
+C:\Files\Skola\Högskolan Väst - Systemutveckling\2019 - ETB310 - Etjänster & XML\Lab2\Lab2 - Inlämning\Lab2\InventoryService\bin\Debug\SupplierService.pdb
+C:\Files\Skola\Högskolan Väst - Systemutveckling\2019 - ETB310 - Etjänster & XML\Lab2\Lab2 - Inlämning\Lab2\InventoryService\bin\Debug\SupplierService.dll.config
+C:\Files\Skola\Högskolan Väst - Systemutveckling\2019 - ETB310 - Etjänster & XML\Lab2\Lab2 - Inlämning\Lab2\InventoryService\obj\Debug\InventoryService.csprojAssemblyReference.cache
+C:\Files\Skola\Högskolan Väst - Systemutveckling\2019 - ETB310 - Etjänster & XML\Lab2\Lab2 - Inlämning\Lab2\InventoryService\obj\Debug\InventoryService.csproj.CoreCompileInputs.cache
+C:\Files\Skola\Högskolan Väst - Systemutveckling\2019 - ETB310 - Etjänster & XML\Lab2\Lab2 - Inlämning\Lab2\InventoryService\obj\Debug\XsdGeneratedCode\GeneratedXsdTypes.cs
+C:\Files\Skola\Högskolan Väst - Systemutveckling\2019 - ETB310 - Etjänster & XML\Lab2\Lab2 - Inlämning\Lab2\InventoryService\obj\Debug\InventoryService.csproj.CopyComplete
+C:\Files\Skola\Högskolan Väst - Systemutveckling\2019 - ETB310 - Etjänster & XML\Lab2\Lab2 - Inlämning\Lab2\InventoryService\obj\Debug\InventoryService.dll
+C:\Files\Skola\Högskolan Väst - Systemutveckling\2019 - ETB310 - Etjänster & XML\Lab2\Lab2 - Inlämning\Lab2\InventoryService\obj\Debug\InventoryService.pdb

@@ -1,0 +1,13 @@
+C:\Users\emgu0012\Downloads\190220 - Lab2 - Lager implementerat\190220 - Lab2 - Lager implementerat\SupplierService\bin\Debug\SupplierService.dll.config
+C:\Users\emgu0012\Downloads\190220 - Lab2 - Lager implementerat\190220 - Lab2 - Lager implementerat\SupplierService\bin\Debug\SupplierService.dll
+C:\Users\emgu0012\Downloads\190220 - Lab2 - Lager implementerat\190220 - Lab2 - Lager implementerat\SupplierService\bin\Debug\SupplierService.pdb
+C:\Users\emgu0012\Downloads\190220 - Lab2 - Lager implementerat\190220 - Lab2 - Lager implementerat\SupplierService\obj\Debug\SupplierService.dll
+C:\Users\emgu0012\Downloads\190220 - Lab2 - Lager implementerat\190220 - Lab2 - Lager implementerat\SupplierService\obj\Debug\SupplierService.pdb
+C:\Users\emgu0012\Downloads\190220 - Lab2 - Lager implementerat\190220 - Lab2 - Lager implementerat\SupplierService\obj\Debug\SupplierService.csprojResolveAssemblyReference.cache
+C:\Users\emilg\Downloads\190220 - Lab2 - WHIZTL Grossist\190220 - Lab2 - WHIZTL Grossist\SupplierService\bin\Debug\SupplierService.dll.config
+C:\Users\emilg\Downloads\190220 - Lab2 - WHIZTL Grossist\190220 - Lab2 - WHIZTL Grossist\SupplierService\bin\Debug\SupplierService.dll
+C:\Users\emilg\Downloads\190220 - Lab2 - WHIZTL Grossist\190220 - Lab2 - WHIZTL Grossist\SupplierService\bin\Debug\SupplierService.pdb
+C:\Users\emilg\Downloads\190220 - Lab2 - WHIZTL Grossist\190220 - Lab2 - WHIZTL Grossist\SupplierService\obj\Debug\SupplierService.csprojAssemblyReference.cache
+C:\Users\emilg\Downloads\190220 - Lab2 - WHIZTL Grossist\190220 - Lab2 - WHIZTL Grossist\SupplierService\obj\Debug\SupplierService.csproj.CoreCompileInputs.cache
+C:\Users\emilg\Downloads\190220 - Lab2 - WHIZTL Grossist\190220 - Lab2 - WHIZTL Grossist\SupplierService\obj\Debug\SupplierService.dll
+C:\Users\emilg\Downloads\190220 - Lab2 - WHIZTL Grossist\190220 - Lab2 - WHIZTL Grossist\SupplierService\obj\Debug\SupplierService.pdb

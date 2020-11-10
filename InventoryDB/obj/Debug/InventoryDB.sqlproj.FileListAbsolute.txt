@@ -1,0 +1,47 @@
+C:\Users\emilg\Downloads\190211 - Lab2\Lab2 (1)\Lab2\InventoryDB\bin\Debug\InventoryDB.dacpac
+C:\Users\emilg\Downloads\190211 - Lab2\Lab2 (1)\Lab2\InventoryDB\bin\Debug\InventoryDB.dll
+C:\Users\emilg\Downloads\190211 - Lab2\Lab2 (1)\Lab2\InventoryDB\bin\Debug\InventoryDB.pdb
+C:\Users\emilg\Downloads\190211 - Lab2\Lab2 (1)\Lab2\InventoryDB\obj\Debug\InventoryDB.sqlprojAssemblyReference.cache
+C:\Users\emilg\Downloads\190211 - Lab2\Lab2 (1)\Lab2\InventoryDB\obj\Debug\InventoryDB.dll
+C:\Users\emilg\Downloads\190211 - Lab2\Lab2 (1)\Lab2\InventoryDB\obj\Debug\InventoryDB.pdb
+C:\Users\emilg\Downloads\190211 - Lab2\Lab2 (1)\Lab2\InventoryDB\obj\Debug\Model.xml
+C:\Users\emilg\Downloads\190211 - Lab2\Lab2 (1)\Lab2\InventoryDB\obj\Debug\refactor.xml
+C:\Users\emilg\Downloads\190211 - Lab2\Lab2 (1)\Lab2\InventoryDB\obj\Debug\postdeploy.sql
+C:\Users\emilg\Downloads\190211 - Lab2\Lab2 (1)\Lab2\InventoryDB\obj\Debug\predeploy.sql
+C:\Users\emgu0012\Downloads\190214 - Lab2\190214 - Lab2\InventoryDB\bin\Debug\InventoryDB.dacpac
+C:\Users\emgu0012\Downloads\190214 - Lab2\190214 - Lab2\InventoryDB\bin\Debug\InventoryDB.dll
+C:\Users\emgu0012\Downloads\190214 - Lab2\190214 - Lab2\InventoryDB\bin\Debug\InventoryDB.pdb
+C:\Users\emgu0012\Downloads\190214 - Lab2\190214 - Lab2\InventoryDB\obj\Debug\Model.xml
+C:\Users\emgu0012\Downloads\190214 - Lab2\190214 - Lab2\InventoryDB\obj\Debug\refactor.xml
+C:\Users\emgu0012\Downloads\190214 - Lab2\190214 - Lab2\InventoryDB\obj\Debug\postdeploy.sql
+C:\Users\emgu0012\Downloads\190214 - Lab2\190214 - Lab2\InventoryDB\obj\Debug\predeploy.sql
+C:\Users\emgu0012\Downloads\190214 - Lab2\190214 - Lab2\InventoryDB\obj\Debug\InventoryDB.dll
+C:\Users\emgu0012\Downloads\190214 - Lab2\190214 - Lab2\InventoryDB\obj\Debug\InventoryDB.pdb
+C:\Users\maje0019\Desktop\190214b - Lab2\InventoryDB\bin\Debug\InventoryDB.dacpac
+C:\Users\maje0019\Desktop\190214b - Lab2\InventoryDB\bin\Debug\InventoryDB.dll
+C:\Users\maje0019\Desktop\190214b - Lab2\InventoryDB\bin\Debug\InventoryDB.pdb
+C:\Users\maje0019\Desktop\190214b - Lab2\InventoryDB\obj\Debug\Model.xml
+C:\Users\maje0019\Desktop\190214b - Lab2\InventoryDB\obj\Debug\refactor.xml
+C:\Users\maje0019\Desktop\190214b - Lab2\InventoryDB\obj\Debug\postdeploy.sql
+C:\Users\maje0019\Desktop\190214b - Lab2\InventoryDB\obj\Debug\predeploy.sql
+C:\Users\maje0019\Desktop\190214b - Lab2\InventoryDB\obj\Debug\InventoryDB.dll
+C:\Users\maje0019\Desktop\190214b - Lab2\InventoryDB\obj\Debug\InventoryDB.pdb
+C:\Users\emgu0012\Downloads\190220 - Lab2 - Lager implementerat\190220 - Lab2 - Lager implementerat\InventoryDB\bin\Debug\InventoryDB.dacpac
+C:\Users\emgu0012\Downloads\190220 - Lab2 - Lager implementerat\190220 - Lab2 - Lager implementerat\InventoryDB\bin\Debug\InventoryDB.dll
+C:\Users\emgu0012\Downloads\190220 - Lab2 - Lager implementerat\190220 - Lab2 - Lager implementerat\InventoryDB\bin\Debug\InventoryDB.pdb
+C:\Users\emgu0012\Downloads\190220 - Lab2 - Lager implementerat\190220 - Lab2 - Lager implementerat\InventoryDB\obj\Debug\Model.xml
+C:\Users\emgu0012\Downloads\190220 - Lab2 - Lager implementerat\190220 - Lab2 - Lager implementerat\InventoryDB\obj\Debug\refactor.xml
+C:\Users\emgu0012\Downloads\190220 - Lab2 - Lager implementerat\190220 - Lab2 - Lager implementerat\InventoryDB\obj\Debug\postdeploy.sql
+C:\Users\emgu0012\Downloads\190220 - Lab2 - Lager implementerat\190220 - Lab2 - Lager implementerat\InventoryDB\obj\Debug\predeploy.sql
+C:\Users\emgu0012\Downloads\190220 - Lab2 - Lager implementerat\190220 - Lab2 - Lager implementerat\InventoryDB\obj\Debug\InventoryDB.dll
+C:\Users\emgu0012\Downloads\190220 - Lab2 - Lager implementerat\190220 - Lab2 - Lager implementerat\InventoryDB\obj\Debug\InventoryDB.pdb
+C:\Users\emilg\Downloads\190220 - Lab2 - WHIZTL Grossist\190220 - Lab2 - WHIZTL Grossist\InventoryDB\bin\Debug\InventoryDB.dacpac
+C:\Users\emilg\Downloads\190220 - Lab2 - WHIZTL Grossist\190220 - Lab2 - WHIZTL Grossist\InventoryDB\bin\Debug\InventoryDB.dll
+C:\Users\emilg\Downloads\190220 - Lab2 - WHIZTL Grossist\190220 - Lab2 - WHIZTL Grossist\InventoryDB\bin\Debug\InventoryDB.pdb
+C:\Users\emilg\Downloads\190220 - Lab2 - WHIZTL Grossist\190220 - Lab2 - WHIZTL Grossist\InventoryDB\obj\Debug\InventoryDB.sqlprojAssemblyReference.cache
+C:\Users\emilg\Downloads\190220 - Lab2 - WHIZTL Grossist\190220 - Lab2 - WHIZTL Grossist\InventoryDB\obj\Debug\Model.xml
+C:\Users\emilg\Downloads\190220 - Lab2 - WHIZTL Grossist\190220 - Lab2 - WHIZTL Grossist\InventoryDB\obj\Debug\refactor.xml
+C:\Users\emilg\Downloads\190220 - Lab2 - WHIZTL Grossist\190220 - Lab2 - WHIZTL Grossist\InventoryDB\obj\Debug\postdeploy.sql
+C:\Users\emilg\Downloads\190220 - Lab2 - WHIZTL Grossist\190220 - Lab2 - WHIZTL Grossist\InventoryDB\obj\Debug\predeploy.sql
+C:\Users\emilg\Downloads\190220 - Lab2 - WHIZTL Grossist\190220 - Lab2 - WHIZTL Grossist\InventoryDB\obj\Debug\InventoryDB.dll
+C:\Users\emilg\Downloads\190220 - Lab2 - WHIZTL Grossist\190220 - Lab2 - WHIZTL Grossist\InventoryDB\obj\Debug\InventoryDB.pdb

@@ -1,0 +1,21 @@
+﻿** Highlights
+     Tables that will be rebuilt
+       [dbo].[InventoryTable]
+     Clustered indexes that will be dropped
+       None
+     Clustered indexes that will be created
+       None
+     Possible data issues
+       The column [dbo].[InventoryTable].[Product_ID] is being dropped, data loss could occur.
+
+** User actions
+     Rename
+       [dbo].[InventoryTable].[Product_ID] (Column)
+       [dbo].[InventoryTable].[Product] (Column)
+     Table rebuild
+       [dbo].[InventoryTable] (Table)
+
+** Supporting actions
+
+The column [dbo].[InventoryTable].[Product_ID] is being dropped, data loss could occur.
+

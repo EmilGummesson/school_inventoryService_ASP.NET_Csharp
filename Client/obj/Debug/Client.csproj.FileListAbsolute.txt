@@ -1,0 +1,329 @@
+C:\Users\emilg\Documents\Skola\Högskolan Väst - Systemutveckling\2019 - ETB310 - Etjänster & XML\Lab2\Client\bin\Client.dll.config
+C:\Users\emilg\Documents\Skola\Högskolan Väst - Systemutveckling\2019 - ETB310 - Etjänster & XML\Lab2\Client\bin\Client.dll
+C:\Users\emilg\Documents\Skola\Högskolan Väst - Systemutveckling\2019 - ETB310 - Etjänster & XML\Lab2\Client\bin\Client.pdb
+C:\Users\emilg\Documents\Skola\Högskolan Väst - Systemutveckling\2019 - ETB310 - Etjänster & XML\Lab2\Client\bin\roslyn\csc.exe
+C:\Users\emilg\Documents\Skola\Högskolan Väst - Systemutveckling\2019 - ETB310 - Etjänster & XML\Lab2\Client\bin\roslyn\csc.exe.config
+C:\Users\emilg\Documents\Skola\Högskolan Väst - Systemutveckling\2019 - ETB310 - Etjänster & XML\Lab2\Client\bin\roslyn\csc.rsp
+C:\Users\emilg\Documents\Skola\Högskolan Väst - Systemutveckling\2019 - ETB310 - Etjänster & XML\Lab2\Client\bin\roslyn\csi.exe
+C:\Users\emilg\Documents\Skola\Högskolan Väst - Systemutveckling\2019 - ETB310 - Etjänster & XML\Lab2\Client\bin\roslyn\csi.exe.config
+C:\Users\emilg\Documents\Skola\Högskolan Väst - Systemutveckling\2019 - ETB310 - Etjänster & XML\Lab2\Client\bin\roslyn\csi.rsp
+C:\Users\emilg\Documents\Skola\Högskolan Väst - Systemutveckling\2019 - ETB310 - Etjänster & XML\Lab2\Client\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\emilg\Documents\Skola\Högskolan Väst - Systemutveckling\2019 - ETB310 - Etjänster & XML\Lab2\Client\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\emilg\Documents\Skola\Högskolan Väst - Systemutveckling\2019 - ETB310 - Etjänster & XML\Lab2\Client\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\emilg\Documents\Skola\Högskolan Väst - Systemutveckling\2019 - ETB310 - Etjänster & XML\Lab2\Client\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\emilg\Documents\Skola\Högskolan Väst - Systemutveckling\2019 - ETB310 - Etjänster & XML\Lab2\Client\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\emilg\Documents\Skola\Högskolan Väst - Systemutveckling\2019 - ETB310 - Etjänster & XML\Lab2\Client\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\emilg\Documents\Skola\Högskolan Väst - Systemutveckling\2019 - ETB310 - Etjänster & XML\Lab2\Client\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\emilg\Documents\Skola\Högskolan Väst - Systemutveckling\2019 - ETB310 - Etjänster & XML\Lab2\Client\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\emilg\Documents\Skola\Högskolan Väst - Systemutveckling\2019 - ETB310 - Etjänster & XML\Lab2\Client\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\emilg\Documents\Skola\Högskolan Väst - Systemutveckling\2019 - ETB310 - Etjänster & XML\Lab2\Client\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\emilg\Documents\Skola\Högskolan Väst - Systemutveckling\2019 - ETB310 - Etjänster & XML\Lab2\Client\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\emilg\Documents\Skola\Högskolan Väst - Systemutveckling\2019 - ETB310 - Etjänster & XML\Lab2\Client\bin\roslyn\System.AppContext.dll
+C:\Users\emilg\Documents\Skola\Högskolan Väst - Systemutveckling\2019 - ETB310 - Etjänster & XML\Lab2\Client\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\emilg\Documents\Skola\Högskolan Väst - Systemutveckling\2019 - ETB310 - Etjänster & XML\Lab2\Client\bin\roslyn\System.Console.dll
+C:\Users\emilg\Documents\Skola\Högskolan Väst - Systemutveckling\2019 - ETB310 - Etjänster & XML\Lab2\Client\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\emilg\Documents\Skola\Högskolan Väst - Systemutveckling\2019 - ETB310 - Etjänster & XML\Lab2\Client\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\emilg\Documents\Skola\Högskolan Väst - Systemutveckling\2019 - ETB310 - Etjänster & XML\Lab2\Client\bin\roslyn\System.IO.Compression.dll
+C:\Users\emilg\Documents\Skola\Högskolan Väst - Systemutveckling\2019 - ETB310 - Etjänster & XML\Lab2\Client\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\emilg\Documents\Skola\Högskolan Väst - Systemutveckling\2019 - ETB310 - Etjänster & XML\Lab2\Client\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\emilg\Documents\Skola\Högskolan Väst - Systemutveckling\2019 - ETB310 - Etjänster & XML\Lab2\Client\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\emilg\Documents\Skola\Högskolan Väst - Systemutveckling\2019 - ETB310 - Etjänster & XML\Lab2\Client\bin\roslyn\System.IO.Pipes.dll
+C:\Users\emilg\Documents\Skola\Högskolan Väst - Systemutveckling\2019 - ETB310 - Etjänster & XML\Lab2\Client\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\emilg\Documents\Skola\Högskolan Väst - Systemutveckling\2019 - ETB310 - Etjänster & XML\Lab2\Client\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\emilg\Documents\Skola\Högskolan Väst - Systemutveckling\2019 - ETB310 - Etjänster & XML\Lab2\Client\bin\roslyn\System.Security.Claims.dll
+C:\Users\emilg\Documents\Skola\Högskolan Väst - Systemutveckling\2019 - ETB310 - Etjänster & XML\Lab2\Client\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\emilg\Documents\Skola\Högskolan Väst - Systemutveckling\2019 - ETB310 - Etjänster & XML\Lab2\Client\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\emilg\Documents\Skola\Högskolan Väst - Systemutveckling\2019 - ETB310 - Etjänster & XML\Lab2\Client\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\emilg\Documents\Skola\Högskolan Väst - Systemutveckling\2019 - ETB310 - Etjänster & XML\Lab2\Client\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\emilg\Documents\Skola\Högskolan Väst - Systemutveckling\2019 - ETB310 - Etjänster & XML\Lab2\Client\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\emilg\Documents\Skola\Högskolan Väst - Systemutveckling\2019 - ETB310 - Etjänster & XML\Lab2\Client\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\emilg\Documents\Skola\Högskolan Väst - Systemutveckling\2019 - ETB310 - Etjänster & XML\Lab2\Client\bin\roslyn\System.ValueTuple.dll
+C:\Users\emilg\Documents\Skola\Högskolan Väst - Systemutveckling\2019 - ETB310 - Etjänster & XML\Lab2\Client\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\emilg\Documents\Skola\Högskolan Väst - Systemutveckling\2019 - ETB310 - Etjänster & XML\Lab2\Client\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\emilg\Documents\Skola\Högskolan Väst - Systemutveckling\2019 - ETB310 - Etjänster & XML\Lab2\Client\bin\roslyn\System.Xml.XPath.dll
+C:\Users\emilg\Documents\Skola\Högskolan Väst - Systemutveckling\2019 - ETB310 - Etjänster & XML\Lab2\Client\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\emilg\Documents\Skola\Högskolan Väst - Systemutveckling\2019 - ETB310 - Etjänster & XML\Lab2\Client\bin\roslyn\vbc.exe
+C:\Users\emilg\Documents\Skola\Högskolan Väst - Systemutveckling\2019 - ETB310 - Etjänster & XML\Lab2\Client\bin\roslyn\vbc.exe.config
+C:\Users\emilg\Documents\Skola\Högskolan Väst - Systemutveckling\2019 - ETB310 - Etjänster & XML\Lab2\Client\bin\roslyn\vbc.rsp
+C:\Users\emilg\Documents\Skola\Högskolan Väst - Systemutveckling\2019 - ETB310 - Etjänster & XML\Lab2\Client\bin\roslyn\VBCSCompiler.exe
+C:\Users\emilg\Documents\Skola\Högskolan Väst - Systemutveckling\2019 - ETB310 - Etjänster & XML\Lab2\Client\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\emilg\Documents\Skola\Högskolan Väst - Systemutveckling\2019 - ETB310 - Etjänster & XML\Lab2\Client\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\emilg\Documents\Skola\Högskolan Väst - Systemutveckling\2019 - ETB310 - Etjänster & XML\Lab2\Client\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\emilg\Documents\Skola\Högskolan Väst - Systemutveckling\2019 - ETB310 - Etjänster & XML\Lab2\Client\obj\Debug\Client.csprojAssemblyReference.cache
+C:\Users\emilg\Documents\Skola\Högskolan Väst - Systemutveckling\2019 - ETB310 - Etjänster & XML\Lab2\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+C:\Users\emilg\Documents\Skola\Högskolan Väst - Systemutveckling\2019 - ETB310 - Etjänster & XML\Lab2\Client\obj\Debug\Client.csproj.CopyComplete
+C:\Users\emilg\Documents\Skola\Högskolan Väst - Systemutveckling\2019 - ETB310 - Etjänster & XML\Lab2\Client\obj\Debug\Client.dll
+C:\Users\emilg\Documents\Skola\Högskolan Väst - Systemutveckling\2019 - ETB310 - Etjänster & XML\Lab2\Client\obj\Debug\Client.pdb
+C:\Users\emilg\Downloads\190211 - Lab2\Lab2 (1)\Lab2\Client\bin\Client.dll.config
+C:\Users\emilg\Downloads\190211 - Lab2\Lab2 (1)\Lab2\Client\bin\Client.dll
+C:\Users\emilg\Downloads\190211 - Lab2\Lab2 (1)\Lab2\Client\bin\Client.pdb
+C:\Users\emilg\Downloads\190211 - Lab2\Lab2 (1)\Lab2\Client\bin\roslyn\csc.exe
+C:\Users\emilg\Downloads\190211 - Lab2\Lab2 (1)\Lab2\Client\bin\roslyn\csc.exe.config
+C:\Users\emilg\Downloads\190211 - Lab2\Lab2 (1)\Lab2\Client\bin\roslyn\csc.rsp
+C:\Users\emilg\Downloads\190211 - Lab2\Lab2 (1)\Lab2\Client\bin\roslyn\csi.exe
+C:\Users\emilg\Downloads\190211 - Lab2\Lab2 (1)\Lab2\Client\bin\roslyn\csi.exe.config
+C:\Users\emilg\Downloads\190211 - Lab2\Lab2 (1)\Lab2\Client\bin\roslyn\csi.rsp
+C:\Users\emilg\Downloads\190211 - Lab2\Lab2 (1)\Lab2\Client\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\emilg\Downloads\190211 - Lab2\Lab2 (1)\Lab2\Client\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\emilg\Downloads\190211 - Lab2\Lab2 (1)\Lab2\Client\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\emilg\Downloads\190211 - Lab2\Lab2 (1)\Lab2\Client\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\emilg\Downloads\190211 - Lab2\Lab2 (1)\Lab2\Client\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\emilg\Downloads\190211 - Lab2\Lab2 (1)\Lab2\Client\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\emilg\Downloads\190211 - Lab2\Lab2 (1)\Lab2\Client\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\emilg\Downloads\190211 - Lab2\Lab2 (1)\Lab2\Client\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\emilg\Downloads\190211 - Lab2\Lab2 (1)\Lab2\Client\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\emilg\Downloads\190211 - Lab2\Lab2 (1)\Lab2\Client\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\emilg\Downloads\190211 - Lab2\Lab2 (1)\Lab2\Client\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\emilg\Downloads\190211 - Lab2\Lab2 (1)\Lab2\Client\bin\roslyn\System.AppContext.dll
+C:\Users\emilg\Downloads\190211 - Lab2\Lab2 (1)\Lab2\Client\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\emilg\Downloads\190211 - Lab2\Lab2 (1)\Lab2\Client\bin\roslyn\System.Console.dll
+C:\Users\emilg\Downloads\190211 - Lab2\Lab2 (1)\Lab2\Client\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\emilg\Downloads\190211 - Lab2\Lab2 (1)\Lab2\Client\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\emilg\Downloads\190211 - Lab2\Lab2 (1)\Lab2\Client\bin\roslyn\System.IO.Compression.dll
+C:\Users\emilg\Downloads\190211 - Lab2\Lab2 (1)\Lab2\Client\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\emilg\Downloads\190211 - Lab2\Lab2 (1)\Lab2\Client\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\emilg\Downloads\190211 - Lab2\Lab2 (1)\Lab2\Client\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\emilg\Downloads\190211 - Lab2\Lab2 (1)\Lab2\Client\bin\roslyn\System.IO.Pipes.dll
+C:\Users\emilg\Downloads\190211 - Lab2\Lab2 (1)\Lab2\Client\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\emilg\Downloads\190211 - Lab2\Lab2 (1)\Lab2\Client\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\emilg\Downloads\190211 - Lab2\Lab2 (1)\Lab2\Client\bin\roslyn\System.Security.Claims.dll
+C:\Users\emilg\Downloads\190211 - Lab2\Lab2 (1)\Lab2\Client\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\emilg\Downloads\190211 - Lab2\Lab2 (1)\Lab2\Client\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\emilg\Downloads\190211 - Lab2\Lab2 (1)\Lab2\Client\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\emilg\Downloads\190211 - Lab2\Lab2 (1)\Lab2\Client\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\emilg\Downloads\190211 - Lab2\Lab2 (1)\Lab2\Client\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\emilg\Downloads\190211 - Lab2\Lab2 (1)\Lab2\Client\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\emilg\Downloads\190211 - Lab2\Lab2 (1)\Lab2\Client\bin\roslyn\System.ValueTuple.dll
+C:\Users\emilg\Downloads\190211 - Lab2\Lab2 (1)\Lab2\Client\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\emilg\Downloads\190211 - Lab2\Lab2 (1)\Lab2\Client\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\emilg\Downloads\190211 - Lab2\Lab2 (1)\Lab2\Client\bin\roslyn\System.Xml.XPath.dll
+C:\Users\emilg\Downloads\190211 - Lab2\Lab2 (1)\Lab2\Client\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\emilg\Downloads\190211 - Lab2\Lab2 (1)\Lab2\Client\bin\roslyn\vbc.exe
+C:\Users\emilg\Downloads\190211 - Lab2\Lab2 (1)\Lab2\Client\bin\roslyn\vbc.exe.config
+C:\Users\emilg\Downloads\190211 - Lab2\Lab2 (1)\Lab2\Client\bin\roslyn\vbc.rsp
+C:\Users\emilg\Downloads\190211 - Lab2\Lab2 (1)\Lab2\Client\bin\roslyn\VBCSCompiler.exe
+C:\Users\emilg\Downloads\190211 - Lab2\Lab2 (1)\Lab2\Client\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\emilg\Downloads\190211 - Lab2\Lab2 (1)\Lab2\Client\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\emilg\Downloads\190211 - Lab2\Lab2 (1)\Lab2\Client\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\emilg\Downloads\190211 - Lab2\Lab2 (1)\Lab2\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+C:\Users\emilg\Downloads\190211 - Lab2\Lab2 (1)\Lab2\Client\obj\Debug\Client.csproj.CopyComplete
+C:\Users\emilg\Downloads\190211 - Lab2\Lab2 (1)\Lab2\Client\obj\Debug\Client.dll
+C:\Users\emilg\Downloads\190211 - Lab2\Lab2 (1)\Lab2\Client\obj\Debug\Client.pdb
+C:\Users\emilg\Downloads\190211 - Lab2\Lab2 (1)\Lab2\Client\obj\Debug\Client.csprojAssemblyReference.cache
+C:\Users\emgu0012\Downloads\190214 - Lab2\190214 - Lab2\Client\bin\Client.dll.config
+C:\Users\emgu0012\Downloads\190214 - Lab2\190214 - Lab2\Client\bin\Client.dll
+C:\Users\emgu0012\Downloads\190214 - Lab2\190214 - Lab2\Client\bin\Client.pdb
+C:\Users\emgu0012\Downloads\190214 - Lab2\190214 - Lab2\Client\bin\roslyn\csc.exe
+C:\Users\emgu0012\Downloads\190214 - Lab2\190214 - Lab2\Client\bin\roslyn\csc.exe.config
+C:\Users\emgu0012\Downloads\190214 - Lab2\190214 - Lab2\Client\bin\roslyn\csc.rsp
+C:\Users\emgu0012\Downloads\190214 - Lab2\190214 - Lab2\Client\bin\roslyn\csi.exe
+C:\Users\emgu0012\Downloads\190214 - Lab2\190214 - Lab2\Client\bin\roslyn\csi.exe.config
+C:\Users\emgu0012\Downloads\190214 - Lab2\190214 - Lab2\Client\bin\roslyn\csi.rsp
+C:\Users\emgu0012\Downloads\190214 - Lab2\190214 - Lab2\Client\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\emgu0012\Downloads\190214 - Lab2\190214 - Lab2\Client\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\emgu0012\Downloads\190214 - Lab2\190214 - Lab2\Client\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\emgu0012\Downloads\190214 - Lab2\190214 - Lab2\Client\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\emgu0012\Downloads\190214 - Lab2\190214 - Lab2\Client\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\emgu0012\Downloads\190214 - Lab2\190214 - Lab2\Client\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\emgu0012\Downloads\190214 - Lab2\190214 - Lab2\Client\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\emgu0012\Downloads\190214 - Lab2\190214 - Lab2\Client\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\emgu0012\Downloads\190214 - Lab2\190214 - Lab2\Client\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\emgu0012\Downloads\190214 - Lab2\190214 - Lab2\Client\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\emgu0012\Downloads\190214 - Lab2\190214 - Lab2\Client\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\emgu0012\Downloads\190214 - Lab2\190214 - Lab2\Client\bin\roslyn\System.AppContext.dll
+C:\Users\emgu0012\Downloads\190214 - Lab2\190214 - Lab2\Client\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\emgu0012\Downloads\190214 - Lab2\190214 - Lab2\Client\bin\roslyn\System.Console.dll
+C:\Users\emgu0012\Downloads\190214 - Lab2\190214 - Lab2\Client\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\emgu0012\Downloads\190214 - Lab2\190214 - Lab2\Client\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\emgu0012\Downloads\190214 - Lab2\190214 - Lab2\Client\bin\roslyn\System.IO.Compression.dll
+C:\Users\emgu0012\Downloads\190214 - Lab2\190214 - Lab2\Client\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\emgu0012\Downloads\190214 - Lab2\190214 - Lab2\Client\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\emgu0012\Downloads\190214 - Lab2\190214 - Lab2\Client\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\emgu0012\Downloads\190214 - Lab2\190214 - Lab2\Client\bin\roslyn\System.IO.Pipes.dll
+C:\Users\emgu0012\Downloads\190214 - Lab2\190214 - Lab2\Client\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\emgu0012\Downloads\190214 - Lab2\190214 - Lab2\Client\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\emgu0012\Downloads\190214 - Lab2\190214 - Lab2\Client\bin\roslyn\System.Security.Claims.dll
+C:\Users\emgu0012\Downloads\190214 - Lab2\190214 - Lab2\Client\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\emgu0012\Downloads\190214 - Lab2\190214 - Lab2\Client\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\emgu0012\Downloads\190214 - Lab2\190214 - Lab2\Client\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\emgu0012\Downloads\190214 - Lab2\190214 - Lab2\Client\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\emgu0012\Downloads\190214 - Lab2\190214 - Lab2\Client\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\emgu0012\Downloads\190214 - Lab2\190214 - Lab2\Client\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\emgu0012\Downloads\190214 - Lab2\190214 - Lab2\Client\bin\roslyn\System.ValueTuple.dll
+C:\Users\emgu0012\Downloads\190214 - Lab2\190214 - Lab2\Client\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\emgu0012\Downloads\190214 - Lab2\190214 - Lab2\Client\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\emgu0012\Downloads\190214 - Lab2\190214 - Lab2\Client\bin\roslyn\System.Xml.XPath.dll
+C:\Users\emgu0012\Downloads\190214 - Lab2\190214 - Lab2\Client\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\emgu0012\Downloads\190214 - Lab2\190214 - Lab2\Client\bin\roslyn\vbc.exe
+C:\Users\emgu0012\Downloads\190214 - Lab2\190214 - Lab2\Client\bin\roslyn\vbc.exe.config
+C:\Users\emgu0012\Downloads\190214 - Lab2\190214 - Lab2\Client\bin\roslyn\vbc.rsp
+C:\Users\emgu0012\Downloads\190214 - Lab2\190214 - Lab2\Client\bin\roslyn\VBCSCompiler.exe
+C:\Users\emgu0012\Downloads\190214 - Lab2\190214 - Lab2\Client\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\emgu0012\Downloads\190214 - Lab2\190214 - Lab2\Client\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\emgu0012\Downloads\190214 - Lab2\190214 - Lab2\Client\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\emgu0012\Downloads\190214 - Lab2\190214 - Lab2\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+C:\Users\emgu0012\Downloads\190214 - Lab2\190214 - Lab2\Client\obj\Debug\Client.dll
+C:\Users\emgu0012\Downloads\190214 - Lab2\190214 - Lab2\Client\obj\Debug\Client.pdb
+C:\Users\maje0019\Desktop\190214b - Lab2\Client\bin\Client.dll.config
+C:\Users\maje0019\Desktop\190214b - Lab2\Client\bin\Client.dll
+C:\Users\maje0019\Desktop\190214b - Lab2\Client\bin\Client.pdb
+C:\Users\maje0019\Desktop\190214b - Lab2\Client\bin\roslyn\csc.exe
+C:\Users\maje0019\Desktop\190214b - Lab2\Client\bin\roslyn\csc.exe.config
+C:\Users\maje0019\Desktop\190214b - Lab2\Client\bin\roslyn\csc.rsp
+C:\Users\maje0019\Desktop\190214b - Lab2\Client\bin\roslyn\csi.exe
+C:\Users\maje0019\Desktop\190214b - Lab2\Client\bin\roslyn\csi.exe.config
+C:\Users\maje0019\Desktop\190214b - Lab2\Client\bin\roslyn\csi.rsp
+C:\Users\maje0019\Desktop\190214b - Lab2\Client\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\maje0019\Desktop\190214b - Lab2\Client\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\maje0019\Desktop\190214b - Lab2\Client\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\maje0019\Desktop\190214b - Lab2\Client\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\maje0019\Desktop\190214b - Lab2\Client\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\maje0019\Desktop\190214b - Lab2\Client\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\maje0019\Desktop\190214b - Lab2\Client\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\maje0019\Desktop\190214b - Lab2\Client\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\maje0019\Desktop\190214b - Lab2\Client\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\maje0019\Desktop\190214b - Lab2\Client\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\maje0019\Desktop\190214b - Lab2\Client\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\maje0019\Desktop\190214b - Lab2\Client\bin\roslyn\System.AppContext.dll
+C:\Users\maje0019\Desktop\190214b - Lab2\Client\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\maje0019\Desktop\190214b - Lab2\Client\bin\roslyn\System.Console.dll
+C:\Users\maje0019\Desktop\190214b - Lab2\Client\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\maje0019\Desktop\190214b - Lab2\Client\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\maje0019\Desktop\190214b - Lab2\Client\bin\roslyn\System.IO.Compression.dll
+C:\Users\maje0019\Desktop\190214b - Lab2\Client\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\maje0019\Desktop\190214b - Lab2\Client\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\maje0019\Desktop\190214b - Lab2\Client\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\maje0019\Desktop\190214b - Lab2\Client\bin\roslyn\System.IO.Pipes.dll
+C:\Users\maje0019\Desktop\190214b - Lab2\Client\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\maje0019\Desktop\190214b - Lab2\Client\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\maje0019\Desktop\190214b - Lab2\Client\bin\roslyn\System.Security.Claims.dll
+C:\Users\maje0019\Desktop\190214b - Lab2\Client\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\maje0019\Desktop\190214b - Lab2\Client\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\maje0019\Desktop\190214b - Lab2\Client\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\maje0019\Desktop\190214b - Lab2\Client\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\maje0019\Desktop\190214b - Lab2\Client\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\maje0019\Desktop\190214b - Lab2\Client\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\maje0019\Desktop\190214b - Lab2\Client\bin\roslyn\System.ValueTuple.dll
+C:\Users\maje0019\Desktop\190214b - Lab2\Client\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\maje0019\Desktop\190214b - Lab2\Client\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\maje0019\Desktop\190214b - Lab2\Client\bin\roslyn\System.Xml.XPath.dll
+C:\Users\maje0019\Desktop\190214b - Lab2\Client\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\maje0019\Desktop\190214b - Lab2\Client\bin\roslyn\vbc.exe
+C:\Users\maje0019\Desktop\190214b - Lab2\Client\bin\roslyn\vbc.exe.config
+C:\Users\maje0019\Desktop\190214b - Lab2\Client\bin\roslyn\vbc.rsp
+C:\Users\maje0019\Desktop\190214b - Lab2\Client\bin\roslyn\VBCSCompiler.exe
+C:\Users\maje0019\Desktop\190214b - Lab2\Client\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\maje0019\Desktop\190214b - Lab2\Client\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\maje0019\Desktop\190214b - Lab2\Client\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\maje0019\Desktop\190214b - Lab2\Client\obj\Debug\Client.dll
+C:\Users\maje0019\Desktop\190214b - Lab2\Client\obj\Debug\Client.pdb
+C:\Users\emgu0012\Downloads\190220 - Lab2 - Lager implementerat\190220 - Lab2 - Lager implementerat\Client\bin\Client.dll.config
+C:\Users\emgu0012\Downloads\190220 - Lab2 - Lager implementerat\190220 - Lab2 - Lager implementerat\Client\bin\Client.dll
+C:\Users\emgu0012\Downloads\190220 - Lab2 - Lager implementerat\190220 - Lab2 - Lager implementerat\Client\bin\Client.pdb
+C:\Users\emgu0012\Downloads\190220 - Lab2 - Lager implementerat\190220 - Lab2 - Lager implementerat\Client\bin\roslyn\csc.exe
+C:\Users\emgu0012\Downloads\190220 - Lab2 - Lager implementerat\190220 - Lab2 - Lager implementerat\Client\bin\roslyn\csc.exe.config
+C:\Users\emgu0012\Downloads\190220 - Lab2 - Lager implementerat\190220 - Lab2 - Lager implementerat\Client\bin\roslyn\csc.rsp
+C:\Users\emgu0012\Downloads\190220 - Lab2 - Lager implementerat\190220 - Lab2 - Lager implementerat\Client\bin\roslyn\csi.exe
+C:\Users\emgu0012\Downloads\190220 - Lab2 - Lager implementerat\190220 - Lab2 - Lager implementerat\Client\bin\roslyn\csi.exe.config
+C:\Users\emgu0012\Downloads\190220 - Lab2 - Lager implementerat\190220 - Lab2 - Lager implementerat\Client\bin\roslyn\csi.rsp
+C:\Users\emgu0012\Downloads\190220 - Lab2 - Lager implementerat\190220 - Lab2 - Lager implementerat\Client\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\emgu0012\Downloads\190220 - Lab2 - Lager implementerat\190220 - Lab2 - Lager implementerat\Client\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\emgu0012\Downloads\190220 - Lab2 - Lager implementerat\190220 - Lab2 - Lager implementerat\Client\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\emgu0012\Downloads\190220 - Lab2 - Lager implementerat\190220 - Lab2 - Lager implementerat\Client\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\emgu0012\Downloads\190220 - Lab2 - Lager implementerat\190220 - Lab2 - Lager implementerat\Client\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\emgu0012\Downloads\190220 - Lab2 - Lager implementerat\190220 - Lab2 - Lager implementerat\Client\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\emgu0012\Downloads\190220 - Lab2 - Lager implementerat\190220 - Lab2 - Lager implementerat\Client\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\emgu0012\Downloads\190220 - Lab2 - Lager implementerat\190220 - Lab2 - Lager implementerat\Client\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\emgu0012\Downloads\190220 - Lab2 - Lager implementerat\190220 - Lab2 - Lager implementerat\Client\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\emgu0012\Downloads\190220 - Lab2 - Lager implementerat\190220 - Lab2 - Lager implementerat\Client\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\emgu0012\Downloads\190220 - Lab2 - Lager implementerat\190220 - Lab2 - Lager implementerat\Client\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\emgu0012\Downloads\190220 - Lab2 - Lager implementerat\190220 - Lab2 - Lager implementerat\Client\bin\roslyn\System.AppContext.dll
+C:\Users\emgu0012\Downloads\190220 - Lab2 - Lager implementerat\190220 - Lab2 - Lager implementerat\Client\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\emgu0012\Downloads\190220 - Lab2 - Lager implementerat\190220 - Lab2 - Lager implementerat\Client\bin\roslyn\System.Console.dll
+C:\Users\emgu0012\Downloads\190220 - Lab2 - Lager implementerat\190220 - Lab2 - Lager implementerat\Client\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\emgu0012\Downloads\190220 - Lab2 - Lager implementerat\190220 - Lab2 - Lager implementerat\Client\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\emgu0012\Downloads\190220 - Lab2 - Lager implementerat\190220 - Lab2 - Lager implementerat\Client\bin\roslyn\System.IO.Compression.dll
+C:\Users\emgu0012\Downloads\190220 - Lab2 - Lager implementerat\190220 - Lab2 - Lager implementerat\Client\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\emgu0012\Downloads\190220 - Lab2 - Lager implementerat\190220 - Lab2 - Lager implementerat\Client\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\emgu0012\Downloads\190220 - Lab2 - Lager implementerat\190220 - Lab2 - Lager implementerat\Client\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\emgu0012\Downloads\190220 - Lab2 - Lager implementerat\190220 - Lab2 - Lager implementerat\Client\bin\roslyn\System.IO.Pipes.dll
+C:\Users\emgu0012\Downloads\190220 - Lab2 - Lager implementerat\190220 - Lab2 - Lager implementerat\Client\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\emgu0012\Downloads\190220 - Lab2 - Lager implementerat\190220 - Lab2 - Lager implementerat\Client\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\emgu0012\Downloads\190220 - Lab2 - Lager implementerat\190220 - Lab2 - Lager implementerat\Client\bin\roslyn\System.Security.Claims.dll
+C:\Users\emgu0012\Downloads\190220 - Lab2 - Lager implementerat\190220 - Lab2 - Lager implementerat\Client\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\emgu0012\Downloads\190220 - Lab2 - Lager implementerat\190220 - Lab2 - Lager implementerat\Client\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\emgu0012\Downloads\190220 - Lab2 - Lager implementerat\190220 - Lab2 - Lager implementerat\Client\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\emgu0012\Downloads\190220 - Lab2 - Lager implementerat\190220 - Lab2 - Lager implementerat\Client\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\emgu0012\Downloads\190220 - Lab2 - Lager implementerat\190220 - Lab2 - Lager implementerat\Client\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\emgu0012\Downloads\190220 - Lab2 - Lager implementerat\190220 - Lab2 - Lager implementerat\Client\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\emgu0012\Downloads\190220 - Lab2 - Lager implementerat\190220 - Lab2 - Lager implementerat\Client\bin\roslyn\System.ValueTuple.dll
+C:\Users\emgu0012\Downloads\190220 - Lab2 - Lager implementerat\190220 - Lab2 - Lager implementerat\Client\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\emgu0012\Downloads\190220 - Lab2 - Lager implementerat\190220 - Lab2 - Lager implementerat\Client\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\emgu0012\Downloads\190220 - Lab2 - Lager implementerat\190220 - Lab2 - Lager implementerat\Client\bin\roslyn\System.Xml.XPath.dll
+C:\Users\emgu0012\Downloads\190220 - Lab2 - Lager implementerat\190220 - Lab2 - Lager implementerat\Client\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\emgu0012\Downloads\190220 - Lab2 - Lager implementerat\190220 - Lab2 - Lager implementerat\Client\bin\roslyn\vbc.exe
+C:\Users\emgu0012\Downloads\190220 - Lab2 - Lager implementerat\190220 - Lab2 - Lager implementerat\Client\bin\roslyn\vbc.exe.config
+C:\Users\emgu0012\Downloads\190220 - Lab2 - Lager implementerat\190220 - Lab2 - Lager implementerat\Client\bin\roslyn\vbc.rsp
+C:\Users\emgu0012\Downloads\190220 - Lab2 - Lager implementerat\190220 - Lab2 - Lager implementerat\Client\bin\roslyn\VBCSCompiler.exe
+C:\Users\emgu0012\Downloads\190220 - Lab2 - Lager implementerat\190220 - Lab2 - Lager implementerat\Client\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\emgu0012\Downloads\190220 - Lab2 - Lager implementerat\190220 - Lab2 - Lager implementerat\Client\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\emgu0012\Downloads\190220 - Lab2 - Lager implementerat\190220 - Lab2 - Lager implementerat\Client\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\emgu0012\Downloads\190220 - Lab2 - Lager implementerat\190220 - Lab2 - Lager implementerat\Client\obj\Debug\Client.dll
+C:\Users\emgu0012\Downloads\190220 - Lab2 - Lager implementerat\190220 - Lab2 - Lager implementerat\Client\obj\Debug\Client.pdb
+C:\Users\emgu0012\Downloads\190220 - Lab2 - Lager implementerat\190220 - Lab2 - Lager implementerat\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+C:\Users\emilg\Downloads\190220 - Lab2 - WHIZTL Grossist\190220 - Lab2 - WHIZTL Grossist\Client\bin\Client.dll.config
+C:\Users\emilg\Downloads\190220 - Lab2 - WHIZTL Grossist\190220 - Lab2 - WHIZTL Grossist\Client\bin\Client.dll
+C:\Users\emilg\Downloads\190220 - Lab2 - WHIZTL Grossist\190220 - Lab2 - WHIZTL Grossist\Client\bin\Client.pdb
+C:\Users\emilg\Downloads\190220 - Lab2 - WHIZTL Grossist\190220 - Lab2 - WHIZTL Grossist\Client\bin\roslyn\csc.exe
+C:\Users\emilg\Downloads\190220 - Lab2 - WHIZTL Grossist\190220 - Lab2 - WHIZTL Grossist\Client\bin\roslyn\csc.exe.config
+C:\Users\emilg\Downloads\190220 - Lab2 - WHIZTL Grossist\190220 - Lab2 - WHIZTL Grossist\Client\bin\roslyn\csc.rsp
+C:\Users\emilg\Downloads\190220 - Lab2 - WHIZTL Grossist\190220 - Lab2 - WHIZTL Grossist\Client\bin\roslyn\csi.exe
+C:\Users\emilg\Downloads\190220 - Lab2 - WHIZTL Grossist\190220 - Lab2 - WHIZTL Grossist\Client\bin\roslyn\csi.exe.config
+C:\Users\emilg\Downloads\190220 - Lab2 - WHIZTL Grossist\190220 - Lab2 - WHIZTL Grossist\Client\bin\roslyn\csi.rsp
+C:\Users\emilg\Downloads\190220 - Lab2 - WHIZTL Grossist\190220 - Lab2 - WHIZTL Grossist\Client\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\emilg\Downloads\190220 - Lab2 - WHIZTL Grossist\190220 - Lab2 - WHIZTL Grossist\Client\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\emilg\Downloads\190220 - Lab2 - WHIZTL Grossist\190220 - Lab2 - WHIZTL Grossist\Client\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\emilg\Downloads\190220 - Lab2 - WHIZTL Grossist\190220 - Lab2 - WHIZTL Grossist\Client\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\emilg\Downloads\190220 - Lab2 - WHIZTL Grossist\190220 - Lab2 - WHIZTL Grossist\Client\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\emilg\Downloads\190220 - Lab2 - WHIZTL Grossist\190220 - Lab2 - WHIZTL Grossist\Client\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\emilg\Downloads\190220 - Lab2 - WHIZTL Grossist\190220 - Lab2 - WHIZTL Grossist\Client\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\emilg\Downloads\190220 - Lab2 - WHIZTL Grossist\190220 - Lab2 - WHIZTL Grossist\Client\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\emilg\Downloads\190220 - Lab2 - WHIZTL Grossist\190220 - Lab2 - WHIZTL Grossist\Client\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\emilg\Downloads\190220 - Lab2 - WHIZTL Grossist\190220 - Lab2 - WHIZTL Grossist\Client\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\emilg\Downloads\190220 - Lab2 - WHIZTL Grossist\190220 - Lab2 - WHIZTL Grossist\Client\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\emilg\Downloads\190220 - Lab2 - WHIZTL Grossist\190220 - Lab2 - WHIZTL Grossist\Client\bin\roslyn\System.AppContext.dll
+C:\Users\emilg\Downloads\190220 - Lab2 - WHIZTL Grossist\190220 - Lab2 - WHIZTL Grossist\Client\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\emilg\Downloads\190220 - Lab2 - WHIZTL Grossist\190220 - Lab2 - WHIZTL Grossist\Client\bin\roslyn\System.Console.dll
+C:\Users\emilg\Downloads\190220 - Lab2 - WHIZTL Grossist\190220 - Lab2 - WHIZTL Grossist\Client\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\emilg\Downloads\190220 - Lab2 - WHIZTL Grossist\190220 - Lab2 - WHIZTL Grossist\Client\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\emilg\Downloads\190220 - Lab2 - WHIZTL Grossist\190220 - Lab2 - WHIZTL Grossist\Client\bin\roslyn\System.IO.Compression.dll
+C:\Users\emilg\Downloads\190220 - Lab2 - WHIZTL Grossist\190220 - Lab2 - WHIZTL Grossist\Client\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\emilg\Downloads\190220 - Lab2 - WHIZTL Grossist\190220 - Lab2 - WHIZTL Grossist\Client\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\emilg\Downloads\190220 - Lab2 - WHIZTL Grossist\190220 - Lab2 - WHIZTL Grossist\Client\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\emilg\Downloads\190220 - Lab2 - WHIZTL Grossist\190220 - Lab2 - WHIZTL Grossist\Client\bin\roslyn\System.IO.Pipes.dll
+C:\Users\emilg\Downloads\190220 - Lab2 - WHIZTL Grossist\190220 - Lab2 - WHIZTL Grossist\Client\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\emilg\Downloads\190220 - Lab2 - WHIZTL Grossist\190220 - Lab2 - WHIZTL Grossist\Client\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\emilg\Downloads\190220 - Lab2 - WHIZTL Grossist\190220 - Lab2 - WHIZTL Grossist\Client\bin\roslyn\System.Security.Claims.dll
+C:\Users\emilg\Downloads\190220 - Lab2 - WHIZTL Grossist\190220 - Lab2 - WHIZTL Grossist\Client\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\emilg\Downloads\190220 - Lab2 - WHIZTL Grossist\190220 - Lab2 - WHIZTL Grossist\Client\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\emilg\Downloads\190220 - Lab2 - WHIZTL Grossist\190220 - Lab2 - WHIZTL Grossist\Client\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\emilg\Downloads\190220 - Lab2 - WHIZTL Grossist\190220 - Lab2 - WHIZTL Grossist\Client\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\emilg\Downloads\190220 - Lab2 - WHIZTL Grossist\190220 - Lab2 - WHIZTL Grossist\Client\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\emilg\Downloads\190220 - Lab2 - WHIZTL Grossist\190220 - Lab2 - WHIZTL Grossist\Client\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\emilg\Downloads\190220 - Lab2 - WHIZTL Grossist\190220 - Lab2 - WHIZTL Grossist\Client\bin\roslyn\System.ValueTuple.dll
+C:\Users\emilg\Downloads\190220 - Lab2 - WHIZTL Grossist\190220 - Lab2 - WHIZTL Grossist\Client\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\emilg\Downloads\190220 - Lab2 - WHIZTL Grossist\190220 - Lab2 - WHIZTL Grossist\Client\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\emilg\Downloads\190220 - Lab2 - WHIZTL Grossist\190220 - Lab2 - WHIZTL Grossist\Client\bin\roslyn\System.Xml.XPath.dll
+C:\Users\emilg\Downloads\190220 - Lab2 - WHIZTL Grossist\190220 - Lab2 - WHIZTL Grossist\Client\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\emilg\Downloads\190220 - Lab2 - WHIZTL Grossist\190220 - Lab2 - WHIZTL Grossist\Client\bin\roslyn\vbc.exe
+C:\Users\emilg\Downloads\190220 - Lab2 - WHIZTL Grossist\190220 - Lab2 - WHIZTL Grossist\Client\bin\roslyn\vbc.exe.config
+C:\Users\emilg\Downloads\190220 - Lab2 - WHIZTL Grossist\190220 - Lab2 - WHIZTL Grossist\Client\bin\roslyn\vbc.rsp
+C:\Users\emilg\Downloads\190220 - Lab2 - WHIZTL Grossist\190220 - Lab2 - WHIZTL Grossist\Client\bin\roslyn\VBCSCompiler.exe
+C:\Users\emilg\Downloads\190220 - Lab2 - WHIZTL Grossist\190220 - Lab2 - WHIZTL Grossist\Client\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\emilg\Downloads\190220 - Lab2 - WHIZTL Grossist\190220 - Lab2 - WHIZTL Grossist\Client\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\emilg\Downloads\190220 - Lab2 - WHIZTL Grossist\190220 - Lab2 - WHIZTL Grossist\Client\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\emilg\Downloads\190220 - Lab2 - WHIZTL Grossist\190220 - Lab2 - WHIZTL Grossist\Client\obj\Debug\Client.csprojAssemblyReference.cache
+C:\Users\emilg\Downloads\190220 - Lab2 - WHIZTL Grossist\190220 - Lab2 - WHIZTL Grossist\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+C:\Users\emilg\Downloads\190220 - Lab2 - WHIZTL Grossist\190220 - Lab2 - WHIZTL Grossist\Client\obj\Debug\Client.csproj.CopyComplete
+C:\Users\emilg\Downloads\190220 - Lab2 - WHIZTL Grossist\190220 - Lab2 - WHIZTL Grossist\Client\obj\Debug\Client.dll
+C:\Users\emilg\Downloads\190220 - Lab2 - WHIZTL Grossist\190220 - Lab2 - WHIZTL Grossist\Client\obj\Debug\Client.pdb
